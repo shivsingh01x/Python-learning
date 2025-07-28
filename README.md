@@ -55,4 +55,23 @@
                   Enter the value of a:
                   Enter operation:
                   Enter the value of b:
+                    a = input("Enter the value of a:")
+                    a = int(a)
+                    x = input("Enter the opertor:")
+                    b = input("Enter the value of b:")
+                    b = int(b)
+                    if x == '+':
+                        result = a + b
+                    elif x == '-':
+                        result = a - b
+                    elif x == '*':
+                        result = a * b
+                    elif x == '/':
+                        if b != 0:
+                            result = a/b
+                        else:
+                            result = "Error: Division by zero"
+                    else:
+                        result = "Invalid Operation"
+                    print(int(result))
                   
