@@ -48,7 +48,8 @@
                   MAX_VALUE = 100
 
 (*) Taking Input from User
-                  ^ 
+                  user_input = input("Enter something: ")
+                  print("You entered:", user_input)
 
 (*) Building a Calculator using Python
                   Enter the value of a:
