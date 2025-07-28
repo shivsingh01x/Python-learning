@@ -4,6 +4,10 @@
 * Saving N Working on Github & Git.
 * Comments, Escape Sequences & Print Statement
 * Variables & Data Types
+* Taking User Input in Python
+* Small Proj: Creating a calculator using Python
+* Typecasting in Python
+
 
 -----Content----
 (*) Comments, Escape Sequences & Print Statement.
@@ -13,7 +17,7 @@
     ^ Print('Double \"Quote"\ text while printing')
     ^ Print("Hey", 6, 7, sep="~", end="009\n") Seperator & Ending
 
-(*)  Variables & Data Types
+(*) Variables & Data Types
     ^ way to define variable: a = 4
     ^ print("The type of a is", type(a))
     ^ Data Types: ---------------------
@@ -35,4 +39,19 @@
                   ----------------------
                   **Boolean Types:**
                   True/False
-    
+      ^ Defing Let and Const in Python
+                  Python does not have let and const.
+                  **Rule to declare var**
+                  my_variable = 10
+                  **Rule to decalre const**
+                  PI = 3.14159
+                  MAX_VALUE = 100
+
+(*) Taking Input from User
+                  ^ 
+
+(*) Building a Calculator using Python
+                  Enter the value of a:
+                  Enter operation:
+                  Enter the value of b:
+                  
