@@ -102,8 +102,7 @@
                     print(name[4:8])
     ^ Negative Slicing of a string
                     fruit = "Mango"
-                    print(fruit[-3:-1]) i.e 2:4 i.e. ng
-                    
+                    print(fruit[-3:-1]) i.e 2:4 i.e. ng                    
     ^ Length of a String
                     lenthus = "ShivSingh"
                     print(len[lenthus])
