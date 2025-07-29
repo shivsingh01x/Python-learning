@@ -136,6 +136,10 @@
     ^ count method in string:
                     a = "Shiv is Shiv, best of best"
                     print(a.count("Shiv")) i.e. 2
+    ^ endswitch method in string:
+                    a = "Shiv is on a nice pace!"
+                    print(a.endswitch("!)) i.e. true
+    ^ to be continued...
                     
     
                         
