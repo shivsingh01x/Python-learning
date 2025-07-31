@@ -138,7 +138,36 @@
     ^ endswitch method in string:
                     a = "Shiv is on a nice pace!"
                     print(a.endswitch("!)) i.e. true
-    ^ to be continued...
+    ^ find method in string:
+                    a = "Let's find your intelligency"
+                    print(a.find("intelligency"))
+    ^ isalnum method in string:
+                    a = "WelcomeToTheCourse"
+                    print(a.isalnum())
+    ^ isalpha method in string:
+                    a = "Welcome00"
+                    print(a.isalpha())
+    ^ islower method in string:
+                    a = "WELcome"
+                    print(a.islower())
+    ^ isprintable method in string:
+                    a = "haapy birthdday\n"
+                    print(a.isprintable())
+    ^ isspace method in string:
+                    a = "white space check"
+                    print(a.ispace())
+    ^ istitle method in string:
+                    a = "Welcome to the title check"
+                    print(a.istitle())
+    ^ startswitch method in string:
+                    a = "Python learning is very benifical"
+                    print(a.startswitch("Python"))
+    ^ swapcase method in string:
+                    a = "Python swapcse method in string"
+                    print(a.swapcase())
+    ^ title method in string:
+                    a = "this is title for testing"
+                    print(a.title())
                     
     
                         
